@@ -98,7 +98,7 @@
 }
 
 .card-btn:hover{
-    background: #079878;
+    background: #47e4c2;
 }
 
 .product-info{
@@ -150,7 +150,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: #01c6fc;
+    color: #0cb4e3;
     font-size: 50px;
     text-transform: capitalize;
 }
+
